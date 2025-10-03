@@ -18,3 +18,27 @@ DemoGraphix is an interactive **data visualization app** built with **Streamlit*
 
 ## **Project Structure**
 
+
+DemoGraphix/
+│
+├── app.py # Main Streamlit app
+├── population.csv # Population dataset
+├── migration.csv # Migration dataset
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+
+
+---
+
+## **Dependencies**
+
+- Python 3.9+
+- streamlit
+- pandas
+- numpy
+- plotly
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
