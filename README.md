@@ -4,6 +4,13 @@ DemoGraphix is an interactive **data visualization app** built with **Streamlit*
 
 ---
 
+
+## 🌐 Live Demo
+
+You can explore the app online here: [DemoGraphix App](https://demographix-hxyshpoydoyleaqubksvum.streamlit.app/)
+
+---
+
 ## **Features**
 
 - 🌏 **World Population Map**: Interactive choropleth map showing population per country.  
@@ -42,3 +49,4 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+
